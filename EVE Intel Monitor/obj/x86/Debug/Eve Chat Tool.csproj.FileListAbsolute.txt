@@ -1,0 +1,10 @@
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\bin\Debug\Eve Chat Tool.exe
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\bin\Debug\Eve Chat Tool.pdb
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Debug\Eve Chat Tool.csprojResolveAssemblyReference.cache
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Debug\Eve_Chat_Tool.Form1.resources
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Debug\Eve_Chat_Tool.Properties.Resources.resources
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Debug\Eve Chat Tool.csproj.GenerateResource.Cache
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Debug\Eve Chat Tool.exe
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Debug\Eve Chat Tool.pdb
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Debug\EVE Intel Monitor.exe
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Debug\EVE Intel Monitor.pdb

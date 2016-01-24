@@ -1,0 +1,28 @@
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Release\EVE Intel Monitor.csproj.GenerateResource.Cache
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\bin\Release\EVE Intel Monitor.exe
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\bin\Release\EVE Intel Monitor.pdb
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Release\EVE_Intel_Monitor.Form1.resources
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Release\EVE_Intel_Monitor.Properties.Resources.resources
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Release\EVE Intel Monitor.exe
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\obj\x86\Release\EVE Intel Monitor.pdb
+E:\projects\Eve-X-Counter-master\Eve Chat Tool\bin\Release\EVE Intel Monitor.exe.config
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\bin\Release\EVE Intel Monitor.exe.config
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\bin\Release\EVE Intel Monitor.exe
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\bin\Release\EVE Intel Monitor.pdb
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\obj\x86\Release\EVE_Intel_Monitor.Form1.resources
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\obj\x86\Release\EVE_Intel_Monitor.HelpForm.resources
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\obj\x86\Release\EVE_Intel_Monitor.MessageForm.resources
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\obj\x86\Release\EVE_Intel_Monitor.Properties.Resources.resources
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\obj\x86\Release\EVE Intel Monitor.csproj.GenerateResource.Cache
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\obj\x86\Release\EVE Intel Monitor.exe
+E:\projects\EVE_Intel_Monitor\Eve Chat Tool\obj\x86\Release\EVE Intel Monitor.pdb
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\bin\Release\EVE Intel Monitor.exe.config
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\bin\Release\EVE Intel Monitor.exe
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\bin\Release\EVE Intel Monitor.pdb
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\obj\x86\Release\EVE_Intel_Monitor.Form1.resources
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\obj\x86\Release\EVE_Intel_Monitor.HelpForm.resources
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\obj\x86\Release\EVE_Intel_Monitor.MessageForm.resources
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\obj\x86\Release\EVE_Intel_Monitor.Properties.Resources.resources
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\obj\x86\Release\EVE Intel Monitor.csproj.GenerateResource.Cache
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\obj\x86\Release\EVE Intel Monitor.exe
+E:\projects\EVE_Intel_Monitor\EVE Intel Monitor\obj\x86\Release\EVE Intel Monitor.pdb
